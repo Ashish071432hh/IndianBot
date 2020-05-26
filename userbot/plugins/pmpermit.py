@@ -18,8 +18,8 @@ USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n�
                     "**I Am Made By A Pro, I Found Ur Way Through "
                     f"{DEFAULTUSER}'s inbox**.\n\n"
                     "`🔶I Am :` **☣HOT🔥**\n\n"
-                    "**This Is Regarded As Illegal And A Crime😬**\n\n"
-                    "** So Send `/start` To Start A Valid Conversation. ")
+                    "**My Master is offline he will reply you when he will come online.If your messaged for buying edu mail please read the pinned message in the group and wait for his reply😊**\n\n"
+                    "**Thank you for contacting me but i Am Offline Now, i will message once I get online. ")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
